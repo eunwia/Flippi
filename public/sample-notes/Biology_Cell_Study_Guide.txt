@@ -1,0 +1,16 @@
+Cell Biology and Cellular Respiration Study Guide
+
+Cell Membrane: A phospholipid bilayer with embedded proteins that regulates the movement of substances entering and exiting the cell.
+Mitochondria: Double-membraned organelles known as the powerhouse of the cell that generate ATP through oxidative phosphorylation.
+Ribosomes: Molecular complexes composed of ribosomal RNA and proteins that synthesize polypeptides by translating mRNA transcripts.
+Endoplasmic Reticulum: An extensive network of membranous tubules; the rough ER synthesizes proteins while the smooth ER synthesizes lipids and detoxifies toxins.
+Golgi Apparatus: Flattened membrane-bound cisternae responsible for modifying, sorting, and packaging proteins for secretion or cellular delivery.
+Lysosomes: Spherical vesicles containing hydrolytic acid enzymes that degrade cellular waste, foreign debris, and damaged organelles.
+
+The primary function of Chloroplasts is to conduct photosynthesis by converting solar energy, carbon dioxide, and water into chemical glucose.
+Active transport refers to the cellular movement of solutes against their concentration gradient requiring ATP hydrolysis.
+Osmosis is defined as the net movement of water molecules through a selectively permeable membrane from an area of higher water potential to lower water potential.
+
+Mitosis is divided into four distinct phases: prophase, metaphase, anaphase, and telophase.
+During Metaphase, chromosomes align along the equatorial metaphase plate attached to spindle microtubules at their kinetochores.
+During Anaphase, sister chromatids separate at their centromeres and are pulled toward opposite cellular poles.

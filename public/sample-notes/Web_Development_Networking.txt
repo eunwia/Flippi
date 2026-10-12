@@ -1,0 +1,12 @@
+Computer Science: Web Systems & Networking Study Notes
+
+Domain Name System: The hierarchical decentralized naming system that translates human-memorable domain names into numerical IP addresses.
+Hypertext Transfer Protocol: An application layer protocol for transmitting hypermedia documents such as HTML across distributed networks.
+HTTPS: The secure extension of HTTP encrypted using Transport Layer Security to authenticate servers and protect communication privacy.
+Application Programming Interface: A software intermediary enabling two distinct applications to communicate and exchange structured data.
+CORS: A web browser security policy that restricts web scripts from accessing resources located on a different origin without server authorization.
+Virtual DOM: An in-memory representation of real DOM elements used by frameworks like React to calculate minimal batch updates via diffing algorithms.
+
+The primary function of a Load Balancer is to distribute incoming client network traffic efficiently across a pool of backend servers to ensure high availability.
+Caching refers to the temporary storage of frequently accessed data in high-speed memory to reduce subsequent retrieval latency.
+A Stateless Protocol is defined as a communication protocol where the receiver retains no session state from previous request cycles.
